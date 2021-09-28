@@ -10,5 +10,8 @@ namespace MyLibrary {
         }
 
 
+        public double Divise(double numerator, double divisor) {
+            return numerator / divisor;
+        }
     }
 }
