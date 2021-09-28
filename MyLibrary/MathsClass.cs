@@ -10,7 +10,7 @@ namespace MyLibrary {
         }
 
 
-        public double Divise(double numerator, double divisor) {
+        public decimal Divise(decimal numerator, decimal divisor) {
             return numerator / divisor;
         }
     }
